@@ -1,0 +1,8 @@
+C:\Users\srivi\Documents\Home work 2\Qu 01\Qu 01\bin\Debug\Qu 01.exe.config
+C:\Users\srivi\Documents\Home work 2\Qu 01\Qu 01\obj\Debug\Qu_01.Properties.Resources.resources
+C:\Users\srivi\Documents\Home work 2\Qu 01\Qu 01\obj\Debug\Qu 01.csproj.GenerateResource.Cache
+C:\Users\srivi\Documents\Home work 2\Qu 01\Qu 01\bin\Debug\Qu 01.exe
+C:\Users\srivi\Documents\Home work 2\Qu 01\Qu 01\bin\Debug\Qu 01.pdb
+C:\Users\srivi\Documents\Home work 2\Qu 01\Qu 01\obj\Debug\Qu 01.exe
+C:\Users\srivi\Documents\Home work 2\Qu 01\Qu 01\obj\Debug\Qu 01.pdb
+C:\Users\srivi\Documents\Home work 2\Qu 01\Qu 01\obj\Debug\Simple_Contact_Manager.Form1.resources
