@@ -41,6 +41,24 @@ namespace Simple_Contact_Manager
             txtName.Clear();
             txtPhone.Clear();
         }
+
+        private void btnclear_Click(object sender, EventArgs e)
+        {
+            txtName.Clear();
+            txtPhone.Clear();
+        }
+
+        private void btndelete_Click(object sender, EventArgs e)
+        {
+            if (lstDisplay.SelectedIndex != -1)
+            {
+                lstDisplay.Items.RemoveAt(lstDisplay.SelectedIndex);
+            }
+            else
+            {
+                MessageBox.Show("Please select a contact to delete.", "Delete Error");
+            }
+        }
     }
 }
 
